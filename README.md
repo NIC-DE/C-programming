@@ -1,2 +1,1 @@
-# C-programming
-C code examples
+Absolute value calculation
