@@ -8,7 +8,7 @@ char ch;
 char choice='A';
 char isbn[]="0-387-976-1";
 
-printf("Δωσε ενα χαρακτηρα\n ");
+printf("Γ„ΓΉΓ³Γ¥ Γ¥Γ­Γ΅ Γ·Γ΅Γ±Γ΅ΓªΓ΄Γ§Γ±Γ΅\n ");
 scanf("%s",&isbn);
 	
 printf("Hello\t");
