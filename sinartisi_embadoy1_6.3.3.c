@@ -12,7 +12,7 @@ float width;
 float height;
 double result;
 
-printf("δωσε το πλατος και το υψος:\n");
+printf("Γ¤ΓΉΓ³Γ¥ Γ΄Γ― Γ°Γ«Γ΅Γ΄Γ―Γ² ΓªΓ΅Γ© Γ΄Γ― ΓµΓΈΓ―Γ²:\n");
 scanf("%f %f",&width,&height);
 
 result=width*height;
