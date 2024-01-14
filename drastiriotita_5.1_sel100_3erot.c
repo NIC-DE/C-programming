@@ -12,11 +12,11 @@ main()
 	int max1;
 	int max2;
 		
-	printf("Δωσε τρεις ακεραιους αριθμους:\n");	
+	printf("Γ„ΓΉΓ³Γ¥ Γ΄Γ±Γ¥Γ©Γ² Γ΅ΓªΓ¥Γ±Γ΅Γ©Γ―ΓµΓ² Γ΅Γ±Γ©Γ¨Γ¬Γ―ΓµΓ²:\n");	
 	scanf("%d   %d   %d",&num1,&num2,&num3);
 	max1=num1>num2?num1:num2;
 	max2=max1>num3?max1:num3;			
-	printf("Ο μεγαλυτερος  ειναι ο %d\n",max2);
+	printf("Γ Γ¬Γ¥Γ£Γ΅Γ«ΓµΓ΄Γ¥Γ±Γ―Γ²  Γ¥Γ©Γ­Γ΅Γ© Γ― %d\n",max2);
 }
 
 
