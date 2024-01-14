@@ -14,12 +14,12 @@ system ("chcp 1253>nul");
 
 double result;
 
-printf("δωσε τη βαση και το υψος:\n");
+printf("Γ¤ΓΉΓ³Γ¥ Γ΄Γ§ ΓΆΓ΅Γ³Γ§ ΓªΓ΅Γ© Γ΄Γ― ΓµΓΈΓ―Γ²:\n");
 scanf("%f %f",&base,&height);
 
 
-result=(base*height/2); /*Εμβαδο τριγωνου=β*υ/2*/
-return(result);	/*Αποτελεσμα κλησης συναρτησης*/
+result=(base*height/2); /*Γ…Γ¬ΓΆΓ΅Γ¤Γ― Γ΄Γ±Γ©Γ£ΓΉΓ­Γ―Γµ=ΓΆ*Γµ/2*/
+return(result);	/*ΓΓ°Γ―Γ΄Γ¥Γ«Γ¥Γ³Γ¬Γ΅ ΓªΓ«Γ§Γ³Γ§Γ² Γ³ΓµΓ­Γ΅Γ±Γ΄Γ§Γ³Γ§Γ²*/
 
 printf("%f",result);	
 }
