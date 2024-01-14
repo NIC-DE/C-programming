@@ -11,6 +11,6 @@ main()
 	int sum;
 	sum=num1+num2;	
 	
-	printf("το αθροισμα του %d με το %d ειναι:%d",num1,num2,sum);	
+	printf("Γ΄Γ― Γ΅Γ¨Γ±Γ―Γ©Γ³Γ¬Γ΅ Γ΄Γ―Γµ %d Γ¬Γ¥ Γ΄Γ― %d Γ¥Γ©Γ­Γ΅Γ©:%d",num1,num2,sum);	
 }
 
