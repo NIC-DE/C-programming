@@ -5,8 +5,8 @@
 main()
 {
 system("chcp 1253>nul");
-printf("дглосхемгс\n");
-printf("г\n" "л\n" "о\n");
-printf("с");
+printf("ц└ц┤ц▄ц▐ц⌠ц┬ц┘ц█ц┤ц⌠\n");
+printf("ц┤\n" "ц▄\n" "ц▐\n");
+printf("ц⌠");
 	
 }
