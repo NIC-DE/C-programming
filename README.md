@@ -1,1 +1,3 @@
- Programming in C
+ C programming 
+ 
+ University of Patras
